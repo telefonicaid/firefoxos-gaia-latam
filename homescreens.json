@@ -1,0 +1,36 @@
+{"homescreens": [
+  [
+    ["apps", "communications", "dialer"],
+    ["apps", "sms"],
+    ["apps", "browser"],
+    ["apps", "camera"],
+    ["apps", "fm"]
+  ], [
+    ["external-apps", "marketplace"],
+    ["external-apps", "youtube"],
+    ["external-apps", "poppit"],
+    ["apps", "email"],
+    ["apps", "calendar"],
+    ["apps", "gallery"],
+    ["apps", "costcontrol"],
+    ["external-apps", "tume"],
+    ["external-apps", "m.here.com"],
+    ["apps", "settings"],
+    ["external-apps", "accuweather"],
+    ["external-apps", "mimovistar"],
+    ["external-apps", "facebook"],
+    ["external-apps", "twitter"],
+    ["external-apps", "enlazados"]
+  ], [
+    ["external-apps", "notes"],
+    ["external-apps", "rhapsody"],
+    ["external-apps", "soundcloud"],
+    ["apps", "music"],
+    ["apps", "video"],
+    ["external-apps", "wikipedia"],
+    ["external-apps", "calculator"],
+    ["apps", "clock"],
+    ["apps", "communications", "contacts"],
+    ["external-apps", "gamepack"]
+  ]
+]}
