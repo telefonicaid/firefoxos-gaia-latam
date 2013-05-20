@@ -1,1 +1,1 @@
-{"origin": "app://tume/", "manifestURL": "app://tume/manifest.webapp", "type": "web"}
+{"origin": "app://tume", "installOrigin": "https://marketplace.firefox.com", "packageEtag": "\"a4dc36f08dc493e8ae299bc19b1525ca70fc7efb0e6a18607f6a31795e78dda9\"", "manifestURL": "https://marketplace.firefox.com/app/387add80-a7c2-4ec9-9487-96fa31600d93/manifest.webapp", "etag": "\"e07b10ddcc41f817be343d6a893d6582\"", "type": "web"}

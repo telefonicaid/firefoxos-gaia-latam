@@ -23,7 +23,6 @@
     ["external-apps", "enlazados"]
   ], [
     ["external-apps", "notes"],
-    ["external-apps", "rhapsody"],
     ["apps", "music"],
     ["apps", "video"],
     ["external-apps", "wikipedia"],
