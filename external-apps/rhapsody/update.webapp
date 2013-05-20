@@ -1,1 +1,0 @@
-{"name": "Rhapsody", "icons": {"60": "/style/icons/icon60.png", "128": "/style/icons/icon128.png"}, "description": "Rhapsody is the digital music service that allows you to listen all you want from wherever you are.", "version": "0.1", "package_path": "/application.zip", "launch_path": "/index.html", "developer": {"url": "http://rhapsody.com/", "name": "Randy Kruzan"}}
